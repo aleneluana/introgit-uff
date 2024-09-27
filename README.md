@@ -12,6 +12,8 @@ Ementa:
     - Clonagem de um repositório existente
     - Fork de um repositório
     - Criação de um repositório a partir de um template
+
+    
 | Comando         | Descrição                                                                 |
 |-----------------|--------------------------------------------------------------------------|
 | `git init`      | Inicializa um novo repositório Git.                                       |
