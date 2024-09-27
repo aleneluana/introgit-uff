@@ -1,4 +1,4 @@
-# introgit-uff
+# Introdução ao GIT e ao GitHub
 Repositório da disciplina de introdução a git e GitHub do Curso de Formação de Executivos em Ciência de Dados da UFF
 
 Ementa: 
@@ -12,8 +12,17 @@ Ementa:
     - Clonagem de um repositório existente
     - Fork de um repositório
     - Criação de um repositório a partir de um template
+- Interfaçe gráfica do GitHub
+- Comandos básicos do git
+- Branches
+- Pull requests
+- Issues
+- Contribuindo com projetos open source
+- Criando sua página pessoal no GitHub
+- Ativiade prática
 
-    
+# Lista de comandos básicos do Git
+
 | Comando         | Descrição                                                                 |
 |-----------------|--------------------------------------------------------------------------|
 | `git init`      | Inicializa um novo repositório Git.                                       |
