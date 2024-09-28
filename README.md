@@ -58,6 +58,6 @@ Sou professor de Ciência de Dados na Universidade Federal Fluminense e atuo com
 
 ## Contato
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcus-ramalho/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcus-ramalho-8a440545/)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/seu-usuario)
+
