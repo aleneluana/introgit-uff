@@ -4,7 +4,7 @@ lang: pt-br
 subtitle: "Disciplina: Git e GitHub para cientistas de dados"
 author: "Marcus Ramalho"
 language: 
-  title-block-author-single: "Professores: "
+  title-block-author-single: "Professor: "
 ---
 
 # Aula 1 - Introdução ao Git e GitHub
@@ -87,6 +87,11 @@ O Objetivo desta aula e tornar o aluno capaz de trabalhar com o Git e GitHub, de
 
 
 ### Tarefa:
+
+recursos: 
+
+[https://github.com/anuraghazra/github-readme-stats](Status do perfil do GitHub)
+
 
 Criar um repositorio com seu nome no GitHub e adicione um arquivo README.md com uma mensagem de apresentação pessoal. Você pode usar alguns recursos de markdown para deixar o arquivo mais bonito. Abaixo um exemplo de como pode ser feito:
 
