@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Git & GitHub",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "presentation.html#controle-de-versão-centralizado",
+    "href": "presentation.html#controle-de-versão-centralizado",
+    "title": "Git e GitHub básico",
+    "section": "Controle de versão centralizado",
+    "text": "Controle de versão centralizado\n\n\n\n\nfonte: LaNts and Laminins"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "presentation.html#controle-de-versão-distribuído",
+    "href": "presentation.html#controle-de-versão-distribuído",
+    "title": "Git e GitHub básico",
+    "section": "Controle de versão distribuído ",
+    "text": "Controle de versão distribuído \n\n\n\n\n\n\n\n\n\n\n\nControle de versão ao longo do tempo\nDesenvolvido por Linus Torvalds em 2005\nFunciona em qualquer sistema operacional que suporte Git\nRepositórios locais e remotos\nRamificação e mesclagem"
+  },
+  {
+    "objectID": "presentation.html#branching",
+    "href": "presentation.html#branching",
+    "title": "Git e GitHub básico",
+    "section": "Branching ",
+    "text": "Branching"
+  },
+  {
+    "objectID": "presentation.html#alguns-conceitos-básicos",
+    "href": "presentation.html#alguns-conceitos-básicos",
+    "title": "Git e GitHub básico",
+    "section": "Alguns conceitos básicos",
+    "text": "Alguns conceitos básicos\n\nCada branch é uma linha de desenvolvimento independente \nCada commit é uma alteração \nCada fetch é uma busca \nCada pull é uma atualização \nCada push é um envio \nCada merge é uma junção de branches \nCada pull request é uma solicitação de alteração \nCada fork é uma cópia de terceiros \nCada clone é uma cópia local"
+  },
+  {
+    "objectID": "presentation.html#commit",
+    "href": "presentation.html#commit",
+    "title": "Git e GitHub básico",
+    "section": "Commit ",
+    "text": "Commit"
+  },
+  {
+    "objectID": "presentation.html#branch-merge",
+    "href": "presentation.html#branch-merge",
+    "title": "Git e GitHub básico",
+    "section": "Branch merge ",
+    "text": "Branch merge"
+  },
+  {
+    "objectID": "presentation.html#ciclo-de-versionamento-de-uma-branch",
+    "href": "presentation.html#ciclo-de-versionamento-de-uma-branch",
+    "title": "Git e GitHub básico",
+    "section": "Ciclo de versionamento de uma branch",
+    "text": "Ciclo de versionamento de uma branch"
+  },
+  {
+    "objectID": "presentation.html#repositório-remoto",
+    "href": "presentation.html#repositório-remoto",
+    "title": "Git e GitHub básico",
+    "section": "repositório remoto",
+    "text": "repositório remoto\ngit remote add origin URL_DO_REPOSITÓRIO\ngit pull\n/**\n * Este código busca as últimas alterações do repositório\n  remoto (origin) e as mescla na branch local (origin/master).\n */\ngit fetch origin \ngit merge origin/main\ngit push\n/**\n * Este código envia as alterações da branch local (origin/main)\n  para o repositório remoto (origin).\n */\ngit push origin origin/main"
+  },
+  {
+    "objectID": "presentation.html#github",
+    "href": "presentation.html#github",
+    "title": "Git e GitHub básico",
+    "section": "GitHub ",
+    "text": "GitHub \n\nPlataforma de hospedagem de código-fonte \nControle de versão usando \nGerenciamento de projetos \nColaboração open source \nDocumentação \nAprendizado"
+  },
+  {
+    "objectID": "presentation.html#referencias",
+    "href": "presentation.html#referencias",
+    "title": "Git e GitHub básico",
+    "section": "Referencias",
+    "text": "Referencias\nGit\nQaOps Explicando git | estrutura de árvore - Rafael Lima\nGitHub\nHome\n\n\n\nUniversidade Federal Fluminense - Programa de formação de executivos - Ciência de dados"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Universidade Federal Fluminense  Programa de formação de executivos  Ciência de dados",
     "section": "",
-    "text": "About this site"
+    "text": "Aula 1 - Introdução ao Git e GitHub\n\n\nPreparando o ambiente - CLIQUE!\n\nCLIQUE AQUI PARA BAIXAR O GIT BASH\nCLIQUE AQUI PARA BAIXAR O GITHUB CLI\nCLIQUE AQUI PARA BAIXAR O GITHUB DESKTOP\nCLIQUE AQUI PARA CRIAR UMA CONTA NO GITHUB\nNo git bash, execute os seguintes comandos:\n\ngit config --global user.name \"Seu_Nome\"\n\ngit config --global user.email \"Se_email\"\n\n\nObjetivo\nO Objetivo desta aula e tornar o aluno capaz de trabalhar com o Git e GitHub, de forma a gerenciar seus projetos e colaborar com outros cientistas de dados.\nTarefa:\nCriar um repositorio com seu nome no GitHub e adicionar um arquivo README.md com a seguinte mensagem:\n```markdown"
   }
 ]

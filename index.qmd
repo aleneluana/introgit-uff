@@ -1,7 +1,106 @@
 ---
-title: "Git & GitHub"
+title: Universidade Federal Fluminense <br> Programa de formação de executivos <br> Ciência de dados
+lang: pt-br
+subtitle: "Disciplina: Git e GitHub para cientistas de dados"
+author: "Marcus Ramalho"
+language: 
+  title-block-author-single: "Professores: "
 ---
 
-This is a Quarto website.
+# Aula 1 - Introdução ao Git e GitHub
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<details>
+
+<summary>**Preparando o ambiente - CLIQUE!** </summary>
+
+[CLIQUE AQUI PARA BAIXAR O GIT BASH](https://git-scm.com/downloads)
+
+[CLIQUE AQUI PARA BAIXAR O GITHUB CLI](https://cli.github.com/)
+
+[CLIQUE AQUI PARA BAIXAR O GITHUB DESKTOP](https://desktop.github.com/)
+
+[CLIQUE AQUI PARA CRIAR UMA CONTA NO GITHUB](https://github.com)
+
+
+No git bash, execute os seguintes comandos:
+
+```bash
+
+git config --global user.name "Seu_Nome"
+
+git config --global user.email "Se_email"
+
+```
+
+Alguns comandos e casos importantes:
+
+Desfazendo um commit:
+
+```bash
+
+git reset HEAD~1
+
+```
+
+Voltando para um commit anterior:
+
+```bash
+
+git reset --hard <commit_hash>
+
+```
+
+Adicionar uma branch remota a origem:
+
+```bash
+
+git remote add origin <url_do_repositorio>
+
+```
+
+adicionar um repositorio upstream, o repositorio original:
+
+```bash
+
+git remote add upstream <url_do_repositorio>
+
+```
+
+fazendo um pull request:
+
+```bash
+
+git fetch upstream
+
+git merge upstream/main
+
+git push origin main
+
+```
+
+</details>
+
+### Objetivo
+
+O Objetivo desta aula e tornar o aluno capaz de trabalhar com o Git e GitHub, de forma a gerenciar seus projetos e colaborar com outros cientistas de dados.
+
+
+
+### Tarefa:
+
+Criar um repositorio com seu nome no GitHub e adicione um arquivo README.md com uma mensagem de apresentação pessoal. Você pode usar alguns recursos de markdown para deixar o arquivo mais bonito. Abaixo um exemplo de como pode ser feito:
+
+```markdown
+
+# Marcus Ramalho
+
+## Sobre mim
+
+Sou professor de Ciência de Dados na Universidade Federal Fluminense e atuo como cientista de dados em uma empresa de consultoria. Tenho experiência em projetos de análise de dados, machine learning e big data.
+
+## Contato
+
+- [Linkedin](https://www.linkedin.com/in/marcus-ramalho/)
+
+
+```
