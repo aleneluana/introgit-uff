@@ -5,7 +5,7 @@
 Repositório da disciplina de introdução a git e GitHub do Curso de Formação de Executivos em Ciência de Dados da UFF
 
 
-# Alunos que parceciparam deste curso
+# Alunos que participaram deste curso
 
 - Diego Paulino
 - Linkedin: https://www.linkedin.com/in/dgopaulino/
