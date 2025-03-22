@@ -1,6 +1,11 @@
+
+
 # Introdução ao GIT e ao GitHub
 
 Repositório da disciplina de introdução a git e GitHub do Curso de Formação de Executivos em Ciência de Dados da UFF
+
+
+# Alunos que parceciparam daeste curso
 
 # Lista de comandos básicos do Git
 
