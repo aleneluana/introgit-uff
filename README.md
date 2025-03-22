@@ -6,8 +6,16 @@ Repositório da disciplina de introdução a git e GitHub do Curso de Formação
 
 
 # Alunos que participaram deste curso
+
 - Alene Luana
 - LinkedIn https://www.linkedin.com/feed/
+
+- Tatiana Sant Anna
+
+- Diego Paulino
+- Linkedin: https://www.linkedin.com/in/dgopaulino/
+
+
 # Lista de comandos básicos do Git
 
 | Comando           | Descrição                                                                 |
