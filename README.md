@@ -6,6 +6,7 @@ Repositório da disciplina de introdução a git e GitHub do Curso de Formação
 
 
 # Alunos que participaram deste curso
+Tatiana Sant Anna
 
 - Diego Paulino
 - Linkedin: https://www.linkedin.com/in/dgopaulino/
